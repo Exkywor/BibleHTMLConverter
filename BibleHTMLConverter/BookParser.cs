@@ -13,6 +13,7 @@ namespace BibleHTMLConverter {
         /// <param name="inputFile">Input .html file to parse.</param>
         public BookParser(string inputFile) {
             _inputFile = File.ReadAllText(inputFile).Split("<p>").ToList();
+            string x = "x";
         }
 
         /// <summary>

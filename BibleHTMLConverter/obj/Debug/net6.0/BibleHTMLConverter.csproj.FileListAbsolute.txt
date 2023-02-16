@@ -1,5 +1,15 @@
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\bin\Debug\net6.0\BibleHTMLConverter.exe
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\bin\Debug\net6.0\BibleHTMLConverter.deps.json
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\bin\Debug\net6.0\BibleHTMLConverter.runtimeconfig.json
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\bin\Debug\net6.0\BibleHTMLConverter.dll
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\bin\Debug\net6.0\BibleHTMLConverter.pdb
 D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.csproj.AssemblyReference.cache
 D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.GeneratedMSBuildEditorConfig.editorconfig
 D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.AssemblyInfoInputs.cache
 D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.AssemblyInfo.cs
 D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.csproj.CoreCompileInputs.cache
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.dll
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\refint\BibleHTMLConverter.dll
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.pdb
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.genruntimeconfig.cache
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\ref\BibleHTMLConverter.dll

@@ -18,7 +18,7 @@
             else { files.AddRange(Directory.EnumerateFiles(args[0], "*.html", SearchOption.AllDirectories).ToList()); }
 
             foreach (string file in files) {
-                ConversionEngine engine = new ConversionEngine(file, Path.GetFileNameWithoutExtension(file));
+                ConversionEngine engine = new ConversionEngine(file);
             }
         }
     }
