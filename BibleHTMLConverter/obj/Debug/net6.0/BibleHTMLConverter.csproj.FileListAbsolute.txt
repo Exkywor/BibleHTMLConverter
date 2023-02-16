@@ -1,0 +1,5 @@
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.csproj.AssemblyReference.cache
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.AssemblyInfoInputs.cache
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.AssemblyInfo.cs
+D:\dev\projects\BibleHTMLConverter\BibleHTMLConverter\obj\Debug\net6.0\BibleHTMLConverter.csproj.CoreCompileInputs.cache

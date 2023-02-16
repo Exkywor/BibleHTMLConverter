@@ -1,0 +1,28 @@
+{
+  "profiles": {
+    "ConvertToBin": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:/Studies/Computer Science/OSSU/core/systems/nand2tetris/projects/11/ConvertToBin/Main.jack"
+    },
+    "Seven": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:/Studies/Computer Science/OSSU/core/systems/nand2tetris/projects/11/Seven/Main.jack"
+    },
+    "Square": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:/Studies/Computer Science/OSSU/core/systems/nand2tetris/projects/11/Square/\""
+    },
+    "Average": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:/Studies/Computer Science/OSSU/core/systems/nand2tetris/projects/11/Average/Main.jack\""
+    },
+    "Pong": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:/Studies/Computer Science/OSSU/core/systems/nand2tetris/projects/11/Pong/\""
+    },
+    "ComplexArrays": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:/Studies/Computer Science/OSSU/core/systems/nand2tetris/projects/11/ComplexArrays/Main.jack\""
+    }
+  }
+}

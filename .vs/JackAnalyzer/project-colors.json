@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb10e45a-2fc5-41ef-bd34-47ce5be7274c": {
+      "ProjectGuid": "cb10e45a-2fc5-41ef-bd34-47ce5be7274c",
+      "DisplayName": "JackAnalyzer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
