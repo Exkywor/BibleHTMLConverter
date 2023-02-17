@@ -3,6 +3,10 @@
     "Mateo": {
       "commandName": "Project",
       "commandLineArgs": "\"D:/dev/projects/BibleHTMLConverter/books_html/mateo.html\""
+    },
+    "NT": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:/dev/projects/BibleHTMLConverter/books_html\""
     }
   }
 }

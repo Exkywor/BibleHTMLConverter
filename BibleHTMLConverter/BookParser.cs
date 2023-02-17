@@ -7,7 +7,7 @@ namespace BibleHTMLConverter
         private static string _inputFile = "";
         private static List<string> _lines;
         private static string _currentLine = ""; // Current line from the input file
-        private static int _nextLine = 0; // Index of next line to read
+        private static int _nextLine; // Index of next line to read
 
         private static Book _book;
         private static int _currChapNum; // Current chapter number
@@ -47,6 +47,7 @@ namespace BibleHTMLConverter
             _lines = file.Split("<p>").ToList();
             _book = new Book(Path.GetFileNameWithoutExtension(_inputFile));
             _currChapNum = 0;
+            _nextLine = 0;
         }
 
         /// <summary>

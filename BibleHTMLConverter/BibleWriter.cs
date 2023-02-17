@@ -19,6 +19,7 @@ namespace BibleHTMLConverter {
             _document = new();
             _bibleEl = _document.CreateElement("bible");
             _writer = new(outputPath, null);
+            _writer.Formatting = Formatting.Indented;
         }
 
         /// <summary>
@@ -27,11 +28,8 @@ namespace BibleHTMLConverter {
         /// <param name="book">Book to add.</param>
         public static void AddBook(Book book)
         {
-            // Capitalize the first letter
-            string bookName = $"{char.ToUpper(book.GetBookName()[0])}{book.GetBookName()[1..]}";
-
             XmlElement bookEl = _document.CreateElement("b");
-            bookEl.SetAttribute("n", bookName);
+            bookEl.SetAttribute("n", book.GetBookName());
 
             foreach (int chapterNumber in book.GetChapterList())
             {
