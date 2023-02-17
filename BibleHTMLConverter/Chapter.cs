@@ -37,5 +37,14 @@ namespace BibleHTMLConverter {
         {
             _verses[verseNum] = verseText;
         }
+
+        /// <summary>
+        /// Get a list of verses contained in the book.
+        /// </summary>
+        /// <returns>List of verses.</returns>
+        public List<int> GetVerseList()
+        {
+            return _verses.Keys.ToList();
+        }
     }
 }

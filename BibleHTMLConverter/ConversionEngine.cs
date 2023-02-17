@@ -7,7 +7,9 @@ namespace BibleHTMLConverter {
         public static void Convert(string inputFile)
         {
             _book = BookParser.Parse(inputFile);
-            string x = "";
+            BibleWriter.StartBibleWriter(inputFile);
+            BibleWriter.AddBook(_book);
+            BibleWriter.UpdateBible();
         }
 
     }
