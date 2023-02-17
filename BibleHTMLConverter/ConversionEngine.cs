@@ -12,7 +12,7 @@ namespace BibleHTMLConverter {
         /// <param name="inputFile">Input book in .html file.</param>
         public ConversionEngine(string inputFile) {
             bookParser = new(inputFile);
-
+            bookParser.Parse();
         }
 
     }
